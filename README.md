@@ -15,7 +15,7 @@ Tenho 26 anos, moro atualmente em Ribeirão Preto - SP e sou estudante de engenh
 
 
 
-- 🛠💻Estagiario de service desk
+- 🛠💻Analista de service desk
 - 🐍 Desenvolvendo habilidades em Python
 - 😄  Adoro sair para dar boas risadas e tomar um chopp trincando!
 
