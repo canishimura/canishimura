@@ -23,7 +23,7 @@ Tenho 27 anos, moro atualmente em Ribeirão Preto - SP e sou estudante de engenh
   Mudei de carreira para trabalhar com algo adoro e tenho muita curiosidade. Hoje posso dizer com certeza que estou no caminho certo.
 
 ### Minha Jornada:
-- Embora seja um recém-chegado a este campo, tenho explorado diversas áreas para ter uma visão abrangente. No entanto, meu foco principal está em aprofundar meus conhecimentos em **data science**.
+- Embora seja um recém-chegado a este campo, tenho explorado diversas áreas para ter uma visão abrangente. No entanto, meu foco principal está em aprofundar meus conhecimentos em **Java**.
 
 - Diariamente, me dedico a **estudar e aprimorar** minhas habilidades, buscando assim uma evolução constante. O aprendizado é uma jornada contínua, e busco absorver **novos conhecimentos** a cada dia.
   
