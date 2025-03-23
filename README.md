@@ -7,7 +7,7 @@
 
 Oláa!! Bem vindo!!
 
-Tenho 26 anos, moro atualmente em Ribeirão Preto - SP e sou estudante de engenharia da computação! Sou um veterinário apaixonado por informática que resolveu mudar de carreira! 🐾💻
+Tenho 27 anos, moro atualmente em Ribeirão Preto - SP e sou estudante de engenharia da computação! Sou um veterinário apaixonado por informática que resolveu mudar de carreira! 🐾💻
 
 <p align="center">
     <img src="https://c.tenor.com/gPEDA7CLmfEAAAAd/tenor.gif" alt="Saudação" width="250" height="250">
@@ -16,7 +16,7 @@ Tenho 26 anos, moro atualmente em Ribeirão Preto - SP e sou estudante de engenh
 
 
 - 🛠💻Analista de service desk
-- 🐍 Desenvolvendo habilidades em Python
+- ♨️ Desenvolvendo habilidades em Java
 - 😄  Adoro sair para dar boas risadas e tomar um chopp trincando!
 
 ## 🙋‍♂️ Sobre mim
@@ -28,7 +28,7 @@ Tenho 26 anos, moro atualmente em Ribeirão Preto - SP e sou estudante de engenh
 - Diariamente, me dedico a **estudar e aprimorar** minhas habilidades, buscando assim uma evolução constante. O aprendizado é uma jornada contínua, e busco absorver **novos conhecimentos** a cada dia.
   
 ### Além dos Bits e Bytes:
-- Fora dos estudos, adoro praticar esportes. Tenho uma paixão especial por futebol e futevôlei, mesmo que a bola nem sempre compartilhe do mesmo sentimento.
+- Fora dos estudos, adoro praticar esportes e tocar como DJ. Tenho uma paixão especial por futebol, mesmo que a bola nem sempre compartilhe do mesmo sentimento.
  
 ## 💻 Técnologias e Ferramentas:
 <div>
