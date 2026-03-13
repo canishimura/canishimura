@@ -7,23 +7,20 @@
 
 Oláa!! Bem vindo!!
 
-Tenho 27 anos, moro atualmente em Ribeirão Preto - SP e sou estudante de engenharia da computação! Sou um veterinário apaixonado por informática que resolveu mudar de carreira! 🐾💻
+Tenho 28 anos, moro atualmente em Ribeirão Preto - SP e sou estudante de engenharia de software! Sou um veterinário apaixonado por informática que resolveu mudar de carreira! 🐾💻
 
 <p align="center">
     <img src="https://c.tenor.com/gPEDA7CLmfEAAAAd/tenor.gif" alt="Saudação" width="250" height="250">
 </p>
 
-
-
-- 🛠💻Analista de service desk
-- ♨️ Desenvolvendo habilidades em Java
+- ♨️ Desenvolvendo habilidades em Analytics
 - 😄  Adoro sair para dar boas risadas e tomar um chopp trincando!
 
 ## 🙋‍♂️ Sobre mim
   Mudei de carreira para trabalhar com algo adoro e tenho muita curiosidade. Hoje posso dizer com certeza que estou no caminho certo.
 
 ### Minha Jornada:
-- Embora seja um recém-chegado a este campo, tenho explorado diversas áreas para ter uma visão abrangente. No entanto, meu foco principal está em aprofundar meus conhecimentos em **Java**.
+- Embora seja um recém-chegado a este campo, tenho explorado diversas áreas para ter uma visão abrangente. No entanto, meu foco principal está em aprofundar meus conhecimentos em **Analytics**.
 
 - Diariamente, me dedico a **estudar e aprimorar** minhas habilidades, buscando assim uma evolução constante. O aprendizado é uma jornada contínua, e busco absorver **novos conhecimentos** a cada dia.
   
